@@ -1,8 +1,11 @@
 package com.yu.yufw.domain;
 
+import lombok.Data;
+
 /**
  * 客户
  */
+@Data
 public class Customer {
     /**
      * ID
